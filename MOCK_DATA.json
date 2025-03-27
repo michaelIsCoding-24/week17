@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Wash dishes",
+      "tracked": false
+    },
+    {
+      "id": 2,
+      "text": "Do laundry",
+      "tracked": false
+    },
+    {
+      "id": 3,
+      "text": "Do a reaaaally cool backflip",
+      "tracked": true
+    },
+    {
+      "id": 4,
+      "text": "Feed the Chickens",
+      "tracked": false
+    }
+  ]
+}
